@@ -35,7 +35,7 @@ The website is built using:
 
 Could you include screenshots here of key sections like the home, projects, and contact pages?
 
-[image](https://github.com/user-attachments/assets/0d16bb38-44ed-4b0d-a233-d3ed1a56d35b)
+![image](https://github.com/user-attachments/assets/0d16bb38-44ed-4b0d-a233-d3ed1a56d35b)
 
 ![image](https://github.com/user-attachments/assets/77d3ffaa-01d7-4ad0-8e37-3c6f89c95961)
 
