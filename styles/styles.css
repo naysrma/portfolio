@@ -807,6 +807,7 @@ section {
   .blogs {
     grid-template-columns: repeat(1, 1fr);
     padding-bottom: 6rem;
+    width:200px;
   }
 
   .contact-content-con {
